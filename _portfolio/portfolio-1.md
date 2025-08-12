@@ -1,6 +1,6 @@
 ---
 title: "Time Series Query Project"
-excerpt: "Investigating novel ways to query time series data<br/><img src='/images/wip.png'>"
+excerpt: "Investigating novel ways to query time series data<br/><img src='/images/wip.png' width="500">"
 collection: portfolio
 ---
 
