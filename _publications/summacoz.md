@@ -1,7 +1,7 @@
 ---
 title: "SummaCoz: A Dataset for Improving the Interpretability of Factual Consistency Detection for Summarization"
-collection: conference
-category: manuscripts
+collection: publications
+category: conferences
 permalink: /publication/summacoz
 excerpt: 'LLM Summarization'
 date: 2024-10-01
