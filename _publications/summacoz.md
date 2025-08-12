@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/summacoz
 excerpt: 'LLM Summarization'
 date: 2024-10-01
-venue: 'Findings of the Association for Computational Linguistics: EMNLP 2024'
+venue: 'Findings of the Association for Computational Linguistics: EMNLP'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
