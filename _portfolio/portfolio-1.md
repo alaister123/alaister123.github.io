@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Time Series Query Project"
+excerpt: "Investigating novel ways to query time series data<br/><img src='/images/wip.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Investigating novel ways to query and visualize time series data with intellgent user interface and context-aware thresholding suitable for both experts and general users. Planning to publish findings in HCI conferences.  
