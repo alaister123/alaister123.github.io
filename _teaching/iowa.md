@@ -11,12 +11,3 @@ location: "Ames, IA"
 2. Provided one‑on‑one support to students, ensuring comprehension of complex concepts such as data visualization, VLOOKUP, and macro automation
 3. Instructed students on building and managing relational databases using Microsoft Access, covering key concepts such as data normalization, query design, and report generation
 
-
-<!-- Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
