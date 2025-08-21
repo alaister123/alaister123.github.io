@@ -62,6 +62,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Service and leadership
+Work Experience
 ======
-* Currently signed in to 43 different slack teams -->
+* Prompt Engineer Intern
+  * Set up locally running models
+  * Design prompts to perform few shot classification task for questions
+  * Personalized English learning experience for everyone
