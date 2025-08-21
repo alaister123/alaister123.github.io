@@ -4,4 +4,4 @@ excerpt: "Full stack project on stock analytics visualizations<br/><img src='/im
 collection: portfolio
 ---
 
-placeholder
+Developed UI & Backend to view stock prices and associated news. Also built a cralwer to craw news webiste in real time.

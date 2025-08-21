@@ -4,4 +4,4 @@ excerpt: "Bug fixes for opensource voice cloning software<br/><img src='/images/
 collection: portfolio
 ---
 
-placeholder
+Fixed a bug in this code causing it to crash in Colab.

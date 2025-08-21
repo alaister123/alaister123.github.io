@@ -1,5 +1,5 @@
 ---
-title: "Investigating the success of transfers and native students in college"
+title: "Investigating the Success of Transfers and Native Students in College"
 excerpt: "Native and transfer student success in computer science<br/><img src='/images/wip.png'>"
 collection: portfolio
 ---
